@@ -13,7 +13,7 @@
     "env": {
     "APP_ENV": "production",
     "APP_DEBUG": "true",
-    "APP_URL": "https://vercel.com/safamliks-projects",
+    "APP_URL": "https://vercel.com/safamliks-projects/gestion-articles",
     "APP_KEY": "base64:ZPBY7GXZ7sOgf6Sp+BrB8uMVxbSzSh/ile0g3SsKxms=",
     "APP_CONFIG_CACHE": "/tmp/config.php",
 "APP_EVENTS_CACHE": "/tmp/events.php",
